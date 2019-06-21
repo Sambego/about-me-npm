@@ -1,7 +1,7 @@
 {
   "name": "@sambego/about-me",
   "version": "1.0.0",
-  "description": "This package prints some  information about Sam Bellen",
+  "description": "A little package the prints some about me information",
   "main": "index.js",
   "dependencies": {
     "chalk": "^2.4.2",

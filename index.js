@@ -16,7 +16,7 @@ const cardOptions = {
 
 const content = `                  ${b('Sam Bellen')}
 
-${g('Job')}                Developer Evangelist at Auth0
+${g('Job')}                Developer Advocate Engineer at Auth0
 ${g('Twitter')}            ${y('https://twitter.com/sambego')}
 ${g('GitHub')}             ${y('https://github.com/sambego')}
 ${g('Website')}            ${y('https://sambego.tech')}

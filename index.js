@@ -28,7 +28,7 @@ ${g("LinkedIn")}           ${y("https://linkedin.com/in/sambellen/")}
 ${g("JSON Web Tokens")}    ${y("https://jwt.sambego.tech")}
 ${g("Passwordless")}       ${y("https://1990.sambego.tech")}
 ${g("Webauthn")}           ${y("https://webauthn.sambego.tech")}
-${g("JOSE")}               ${y("https://jose.sambego.tech")}
+${g("Web Cryptography")}   ${y("https://jose.sambego.tech")}
 
 ${g("Web Audio")}          ${y("https://audio.sambego.tech")}
 ${g("Web APIs")}           ${y("https://go-web.sambego.tech")}

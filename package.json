@@ -4,7 +4,7 @@
   "description": "A little package the prints some about me information",
   "main": "index.js",
   "dependencies": {
-    "boxen": "^4.1.0",
+    "boxen": "^5.1.2",
     "chalk": "^2.4.2"
   },
   "devDependencies": {},

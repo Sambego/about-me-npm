@@ -15,20 +15,21 @@ const cardOptions = {
     borderColor: "blue"
 };
 
-const content = `                  ${b("Sam Bellen")}
+const content = `                   ${b("Sam Bellen")}
 
-${g("Job")}                Developer Advocate Engineer at Auth0
+${g("Job")}                Principal Developer Advocate at Auth0
 ${g("Twitter")}            ${y("https://twitter.com/sambego")}
 ${g("GitHub")}             ${y("https://github.com/sambego")}
 ${g("Website")}            ${y("https://sambego.tech")}
 ${g("LinkedIn")}           ${y("https://linkedin.com/in/sambellen/")}
 
-                    ${b("Slides")}
+                   ${b("Slides")}
 
 ${g("JSON Web Tokens")}    ${y("https://jwt.sambego.tech")}
 ${g("Passwordless")}       ${y("https://1990.sambego.tech")}
 ${g("Webauthn")}           ${y("https://webauthn.sambego.tech")}
 ${g("Web Cryptography")}   ${y("https://jose.sambego.tech")}
+${g("Access Control")}     ${y("https://ac.sambego.tech")}
 
 ${g("Web Audio")}          ${y("https://audio.sambego.tech")}
 ${g("Web APIs")}           ${y("https://go-web.sambego.tech")}

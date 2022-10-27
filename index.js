@@ -18,7 +18,7 @@ const cardOptions = {
     titleAlignment: 'center'
 };
 
-const content = `Social links
+const content = `${b("Social links")}
 
 ${g("Twitter")}            ${y("https://twitter.com/sambego")}
 ${g("GitHub")}             ${y("https://github.com/sambego")}
@@ -35,7 +35,12 @@ ${g("Access Control")}     ${y("https://ac.sambego.tech")}
 
 ${g("Web Audio")}          ${y("https://audio.sambego.tech")}
 ${g("Web APIs")}           ${y("https://go-web.sambego.tech")}
-${g("Web APIs")}           ${y("https://meow.sambego.tech")}`;
+${g("Web APIs")}           ${y("https://meow.sambego.tech")}
+
+${b("Experiments")}
+
+${g("RSA Playground")}      ${y("https://rsa.sambego.tech")}
+${g("DPOP Playground")}     ${y("https://dpop.sambego.tech")}`;
 
 const slidesContent = ``;
 
